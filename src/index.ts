@@ -175,3 +175,4 @@ export { ColumnType } from "./driver/types/ColumnTypes"
 export { EntitySchemaOptions } from "./entity-schema/EntitySchemaOptions"
 export { InstanceChecker } from "./util/InstanceChecker"
 export { TreeRepositoryUtils } from "./util/TreeRepositoryUtils"
+
